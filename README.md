@@ -23,22 +23,8 @@ I like building things end to end — from low-level systems work like writing m
 
 ## Featured Projects
 
-### Oli-Nat Custom Programming Language written by hand in C
-
-
-<a href="https://github.com/NateTheGrappler/OliNat-Programming-Language"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=OliNat-Programming-Language&hide_border=true&theme=dark" alt="Oli-Nat Programming Language repo card"/> </a> 
-
-<!-- add short demo gif here whenever I get around to it -->
-
-### Oli-Nat Web Playground & Documentation
-
-<a href="https://github.com/NateTheGrappler/Oli-Nat-Programming-Language-Docs-Playground"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=Oli-Nat-Programming-Language-Docs-Playground&hide_border=true&theme=dark" alt="Oli-Nat Docs Playground repo card"/> </a>
-<!-- add demo here too when I finish the site -->
-
-### Self-Hosted Homelab: The **MidasCloud**
-[Check Out Homelab Website!](https://midascloud.net)
-
-<a href="https://github.com/NateTheGrappler/MidasCloudHomepage"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=MidasCloudHomepage&hide_border=true&theme=dark" alt="MidasCloud Homepage repo card"/> </a>
+<!-- Add more by copying a block and swapping the repo name. --> 
+<p align="left"> <a href="https://github.com/NateTheGrappler/OliNat-Programming-Language"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=OliNat-Programming-Language&hide_border=true&theme=dark" alt="Oli-Nat Programming Language repo card"/> </a> <a href="https://github.com/NateTheGrappler/Oli-Nat-Programming-Language-Docs-Playground"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=Oli-Nat-Programming-Language-Docs-Playground&hide_border=true&theme=dark" alt="Oli-Nat Docs Playground repo card"/> </a> <a href="https://github.com/NateTheGrappler/MidasCloudHomepage"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=MidasCloudHomepage&hide_border=true&theme=dark" alt="MidasCloud Homepage repo card"/> </a> </p>
 
 
 
