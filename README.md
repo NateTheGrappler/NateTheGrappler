@@ -1,4 +1,4 @@
-# Hi, I'm Natan Guzinski!
+# Hi, I'm Natan Guzinski! 👋
 
 Computer Science student and self-taught developer, currently working toward a BSc in Computer Science with a specialization in Data Science at the University of London. Planning to continue on to a Master's in either Cybersecurity or Data Science after graduating.
 
@@ -23,47 +23,51 @@ I like building things end to end — from low-level systems work like writing m
 
 ## Featured Projects
 
-### Oli-Nat Custom Programming Language
-A statically typed, bytecode-VM programming language written from scratch in C. It includes a static type checker, a mark-and-sweep garbage collector, a standard library (I/O, math, file handling, type conversions, and more), and support for classes, functions, and closures. Built and tested cross-platform with GitHub Actions (Ubuntu and Windows/MSYS2).
+### Oli-Nat Custom Programming Language written by hand in C
 
-Repository: https://github.com/NateTheGrappler/OliNat-Programming-Language
 
-<!--
-A short demo GIF goes a long way here — for example, compiling and running an
-Oli-Nat script, or the garbage collector reclaiming memory. Record one with a
-tool like ScreenToGif, Kap, or peek, save it under assets/gifs/, and embed it:
+<a href="https://github.com/NateTheGrappler/OliNat-Programming-Language"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=OliNat-Programming-Language&hide_border=true&theme=dark" alt="Oli-Nat Programming Language repo card"/> </a> 
 
-![Oli-Nat demo](./assets/gifs/oli-nat-demo.gif)
--->
+<!-- add short demo gif here whenever I get around to it -->
 
 ### Oli-Nat Web Playground & Documentation
-A companion documentation and playground site for the Oli-Nat language, built with React and Vite. It includes a live, in-browser code runner powered by WebAssembly, so visitors can write and execute Oli-Nat code directly on the site.
 
-<!--
-![Oli-Nat Playground demo](./assets/gifs/oli-nat-playground-demo.gif)
--->
+<a href="https://github.com/NateTheGrappler/Oli-Nat-Programming-Language-Docs-Playground"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=Oli-Nat-Programming-Language-Docs-Playground&hide_border=true&theme=dark" alt="Oli-Nat Docs Playground repo card"/> </a>
+<!-- add demo here too when I finish the site -->
 
 ### Self-Hosted Homelab: The **MidasCloud**
-A personal cloud deployment running on Proxmox, hosted on repurposed desktop hardware with attached external storage — used as a hands-on way to apply systems administration and infrastructure management skills in practice.
+[Check Out Homelab Website!](https://midascloud.net)
 
-![Check Out Homelab Website](https://midascloud.net)
+<a href="https://github.com/NateTheGrappler/MidasCloudHomepage"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=NateTheGrappler&repo=MidasCloudHomepage&hide_border=true&theme=dark" alt="MidasCloud Homepage repo card"/> </a>
+
+
 
 ## Skills
 
-**Languages:** C, C++, Python, JavaScript, TypeScript, Java (working knowledge)
 
-**Web & Full-Stack:** React, Node.js, Express, Flask, Django (working knowledge)
+### Languages:
 
-**Data:** SQL, NoSQL
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,java,css,html,wasm&theme=dark" alt="C, C++, Python, JavaScript, TypeScript, Java"/> </a> </p>
 
-**Systems & Tools:** Docker, Linux system administration, Proxmox, Git/GitHub, CI/CD (GitHub Actions), CMake
+### Web & Full-Stack Development:
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,nodejs,express,mysql,postgres,mongodb,flask,django&theme=dark" alt="React, Node.js, Express, Flask, Django"/> </a> </p>
+
+
+### Systems & Tools:
+
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,kubernetes,openshift,cmake&theme=dark" alt="Docker, Linux, Git, GitHub, GitHub Actions, CMake"/> </a> </p>
 
 
 ## Github Items:
 
-<!-- Replace NateTheGrappler below with your actual GitHub username if it differs. These pull live from https://github.com/stats-organization/github-stats-extended, a maintained fork of github-readme-stats — same query parameters, just a different host. You can tweak theme/colors by adding params like &theme=default or &hide_border=true, or use the visual builder at https://github-stats-extended.vercel.app/frontend to generate a custom link. --> <p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=NateTheGrappler&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Nathan's GitHub stats" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NateTheGrappler&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="165"/> </p>
+ <p align="left"> <img src="https://github-stats-extended.vercel.app/api?username=NateTheGrappler&show_icons=true&count_private=true&hide_border=true&theme=dark" alt="Natan's GitHub stats" height="165"/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NateTheGrappler&layout=compact&hide_border=true&theme=dark" alt="Top languages" height="165"/> </p>
+
+
 
 
 ## Get in Touch
 
-<!-- Add your preferred contact links here, e.g. LinkedIn, email, or a personal site -->
+Email: guzinskiNatan@gmail.com
+
+Linkedin: www.linkedin.com/in/natan-guzinski-0447a4438
