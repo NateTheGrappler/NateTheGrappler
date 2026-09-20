@@ -28,6 +28,16 @@ I like building things end to end — from low-level systems work like writing m
 
 
 
+## Open Source Contributions: 
+
+<p align="left">
+  <a href="https://github.com/shamash92/KuraZetu/pull/241">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=shamash92&repo=KuraZetu&hide_border=true&theme=dark" alt="KuraZetu repo card"/>
+  </a>
+</p>
+
+Merged [PR #241](https://github.com/shamash92/KuraZetu/pull/241): updated the Django dependency to the latest 5.2.17 patch and verified the change against the project's full test suite.
+
 ## Skills
 
 
